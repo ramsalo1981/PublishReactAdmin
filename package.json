@@ -7,10 +7,12 @@
     "@ckeditor/ckeditor5-react": "^3.0.2",
     "@popperjs/core": "^2.9.1",
     "axios": "^0.21.1",
+    "bindings": "^1.5.0",
     "date-fns": "^1.29.0",
     "draft-js": "^0.11.7",
+    "file-uri-to-path": "^1.0.0",
     "google-maps-react": "^2.0.2",
-    "mdbreact": "^4.18.1",
+    "mdbreact": "^4.6.1",
     "node-sass": "^4.14.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
@@ -20,7 +22,7 @@
     "react-responsive-carousel": "^3.1.50",
     "react-router": "^3.2.3",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^4.0.3",
     "react-skylight": "^0.5.1",
     "reactstrap": "^7.1.0"
   },
@@ -30,7 +32,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "proxy": "https://knowledgeappapiserver.azurewebsites.net/",
+  "proxy": "https://localhost:44390/",
   "browserslist": [
     ">0.2%",
     "not dead",
